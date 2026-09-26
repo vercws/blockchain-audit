@@ -1,0 +1,4 @@
+slither-analyzer==0.11.6
+solc-select==1.2.0
+anthropic>=0.40.0
+reportlab>=4.0.0
