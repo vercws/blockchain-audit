@@ -1,11 +1,9 @@
 # Smart Contract Security Audit Tool
 
 Automated static analysis tool for Solidity smart contracts. Runs
-[Slither](https://github.com/crytic/slither) (industry-standard static
-analyzer used by real audit firms) against a set of contracts, then uses
+[Slither](https://github.com/crytic/slither) against a set of contracts, then uses
 Claude to translate each raw technical finding into a plain-English risk
-explanation and remediation recommendation — packaged into a client-ready
-PDF audit report.
+explanation and remediation recommendation — packaged into a PDF audit report.
 
 ## What's included
 
